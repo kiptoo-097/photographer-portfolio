@@ -9,7 +9,7 @@
   }
   h1{
       text-align: center;
-      color: crimson;
+      color: darkmagenta;
       border:6px;
       padding: 6px;
   }
@@ -17,4 +17,7 @@
       text-align: center;
       color: darkmagenta;
       font-family: Arial, Helvetica, sans-serif;
+  }
+  body{
+      background-color: lightseagreen;
   }
